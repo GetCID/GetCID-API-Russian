@@ -1,4 +1,4 @@
-# GetCID-API-Russian
+# GetCID API для русского сайта и пользователей/Разработчики
 GetCID API и PIDMS License Checker API - автоматизируйте активацию продуктов Microsoft и проверку лицензий с помощью простого API.
 
 **GetCID API и PIDMS License Checker API Документация**
@@ -94,3 +94,4 @@ GetCID и PIDMS License Checker — это сервисы для активац�
 - **Website**: [GetCID Services](https://msconfirmationid.com/getcid-api/)  
 
 Спасибо за выбор наших сервисов! 🚀
+**Примечание:** Оплата в RUB и криптовалюте. Для помощи: Telegram: [@CIDAdmin](https://t.me/CIDAdmin), Email: [care@msconfirmationid.com](mailto:care@msconfirmationid.com), Skype: live:.cid.afc21522bf98cf1b.
